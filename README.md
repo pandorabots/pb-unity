@@ -12,6 +12,7 @@
 
 #### To add "PBPackAudioIO" to your unity project
 * Build with Unity Version 2019.3
+* Set platform to Android in Build Settings
 * Add Text Mesh Pro from Window -> Package Manager to your project and Import TMP Essentials
 * Right click in your Project Asset Folder and select Import Package -> Custom Package, then select downloaded file "PBPackAudioIO"
 * Create an account and a bot from https://home.pandorabots.com/home.html and copy the BOT_KEY into the GameObject "PostTextToPB" inspector input field, "BOT_KEY"
